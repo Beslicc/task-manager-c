@@ -4,6 +4,7 @@ void prikaziIzbornik(void) {
 	printf("===== TASK MANAGER =====\n");
 	printf("1. Dodaj zadatak\n");
 	printf("2. Prikazi zadatke\n");
+	printf("3. Broj zadataka\n");
 	printf("0. Izlaz\n");
 	printf("========================\n");
 }
